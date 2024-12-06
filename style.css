@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#camera-container {
+    margin-top: 20px;
+}
+
+video {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+canvas {
+    border: 1px solid #ccc;
+}
